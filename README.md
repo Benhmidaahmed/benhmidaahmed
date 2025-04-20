@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm Ahmed Benhmida from Tunisia 🇹🇳  
+I'm Ahmed Ben hmida from Tunisia 🇹🇳  
 I'm a passionate full-stack developer and system enthusiast.  
 
 - 🌍 I work with **frontend, backend, game dev**, and **system tools**
