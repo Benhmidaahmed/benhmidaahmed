@@ -7,8 +7,7 @@ I'm a passionate full-stack developer and system enthusiast.
 
 - 🌍 I work with **frontend, backend, game dev**, and **system tools**
 - 🔥 I love building cool apps, learning new technologies, and contributing to open source
-- 🧠 Currently exploring **cloud & DevOps tools**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/) or [Email](mailto:your-email@example.com)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/) or [Email](mailto:benhmidaa59@gmail.com)
 
 ---
 
