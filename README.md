@@ -39,8 +39,8 @@ I'm a passionate full-stack developer and system enthusiast.
 
 ## 📈 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benhmidaahmed&show_icons=true&theme=github_dark&hide=stars&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benhmidaahmed&layout=compact&theme=github_dark)
+![Ahmed's GitHub Stats](https://ton-app.vercel.app/api?username=Benhmidaahmed&show_icons=true&theme=github_dark&count_private=true)
+![Top Langs](https://ton-app.vercel.app/api/top-langs/?username=Benhmidaahmed&layout=compact&theme=github_dark)
 
 ---
 
