@@ -37,13 +37,6 @@ I'm a passionate full-stack developer and system enthusiast.
 
 ---
 
-## 📈 GitHub Stats
-
-![Ahmed's GitHub Stats](https://ton-app.vercel.app/api?username=Benhmidaahmed&show_icons=true&theme=github_dark&count_private=true)
-![Top Langs](https://ton-app.vercel.app/api/top-langs/?username=Benhmidaahmed&layout=compact&theme=github_dark)
-
----
-
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-ben-hmida-091373295/))  
